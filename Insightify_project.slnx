@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Auth-service/Auth-service.csproj" Id="ee8dbdfb-fcc2-48d5-8c76-2fbef0a7b246" />
   <Project Path="Ingestion-api/Ingestion-api.csproj" Id="57f020b6-c434-46fc-b47c-76747624e54a" />
 </Solution>
